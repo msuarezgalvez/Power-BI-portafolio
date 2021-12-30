@@ -1,5 +1,7 @@
 El dataset utilizado para este proyecto se puede encontrar en el siguiente link: https://www.kaggle.com/shivamb/netflix-shows<br />
 
+Para ver la versión en tableau pueder ver aquí: https://public.tableau.com/app/profile/mat.as.su.rez/viz/MoviesandTVShowsTitlesReport/Dashboard1
+
 
 ## Objetivos<br />
 
