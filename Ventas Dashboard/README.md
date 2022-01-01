@@ -12,7 +12,7 @@ Crear un informe teniendo como tabla principal la colocación (Tbl_colocacion) l
 
 2. Cantidad total de producto activado: (Todo producto activo se encuentra en la tabla ACTIVACIÓN) <br />
 
-3. % Activado: Cantidad total de producto activado/ Cantidad total de producto colocado <br />
+3. Porcentaje Activado: Cantidad total de producto activado/ Cantidad total de producto colocado <br />
 
 4. Valor total de recargas en los 6 meses: Se tiene en cuenta la tabla de activación sumando las columnas con nombre MES 1, MES 2, MES 3...MES 6 <br />
 
