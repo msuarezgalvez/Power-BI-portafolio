@@ -22,7 +22,7 @@ Crear un informe teniendo como tabla principal la colocación (Tbl_colocacion) l
 
 7. Cantidad líneas que cumplen: Para el calculo de este indicador tomamos en cuenta las líneas que tengan un valor total de recarga superior a 15000. <br />
 
-8. % líneas cumplimiento: Cantidad líneas que cumplen/ Cantidad total de producto activado <br />
+8. Porcentaje líneas cumplimiento: Cantidad líneas que cumplen/ Cantidad total de producto activado <br />
 
 9. Promedio comisión por línea activa: Valor comisión a recibir/ Cantidad total de producto activado <br />
 
